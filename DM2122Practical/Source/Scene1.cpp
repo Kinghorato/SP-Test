@@ -388,6 +388,8 @@ void Scene1::Render()
 	//RenderTextOnScreen(meshList[GEO_TEXT], "Press M to reset", Color(0, 1, 0), 2, 1, 1);
 }
 
+//Test run commitment
+
 //Exit Function
 void Scene1::Exit()
 {
